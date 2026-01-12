@@ -17,7 +17,7 @@ While an online tutorial was used as inspiration, all analyses, Pivot Tables, an
 - For the best-selling product category, which product types are the top 3 most sold?
 - At what hours is each coffee shop most active in terms of transaction volume?
 
-:bar_chart: Key Analyses Performed
+:chart_with_upwards_trend: Key Analyses Performed
 - Revenue analysis by store
 - Best-selling products based on transaction quantity
 - Product category and type performance comparison
