@@ -1,9 +1,11 @@
 # excel-sales-dashboard
 ☕ Project Overview
+
 This project analyzes coffee shop sales data to identify trends, best-selling products, and peak business hours.
 The goal is to support data-driven decisions in pricing, staffing, and product offerings.
 
 📚 Data Source
+
 The dataset used in this project was obtained from a publicly available online source for educational purposes.
 While an online tutorial was used as inspiration, all analyses, Pivot Tables, and the final dashboard were independently created by me.
 
@@ -29,6 +31,6 @@ The final result is an interactive Excel dashboard that allows users to:
 - detect peak hours for staffing decisions
 - analyze customer purchasing behavior
 
-  The Dashboard:
+
   <img width="855" height="507" alt="coffeshop_dashboard" src="https://github.com/user-attachments/assets/48eef49e-1589-493e-b4f1-d74a1adc0ab8" />
 
