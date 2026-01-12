@@ -25,6 +25,7 @@ While an online tutorial was used as inspiration, all analyses, Pivot Tables, an
 - Identification of peak business hours
 
 :bar_chart: Outcome
+
 The final result is an interactive Excel dashboard that allows users to:
 - compare store performance
 - identify best-selling products
