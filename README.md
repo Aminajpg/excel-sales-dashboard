@@ -16,7 +16,7 @@ While an online tutorial was used as inspiration, all analyses, Pivot Tables, an
 - At what hours is each coffee shop most active in terms of transaction volume?
 
 📊 Key Analyses Performed
-- Revenue analysis by store and month
+- Revenue analysis by store
 - Best-selling products based on transaction quantity
 - Product category and type performance comparison
 - Hourly transaction analysis per store
@@ -28,3 +28,7 @@ The final result is an interactive Excel dashboard that allows users to:
 - identify best-selling products
 - detect peak hours for staffing decisions
 - analyze customer purchasing behavior
+
+  The Dashboard:
+  <img width="855" height="507" alt="coffeshop_dashboard" src="https://github.com/user-attachments/assets/48eef49e-1589-493e-b4f1-d74a1adc0ab8" />
+
