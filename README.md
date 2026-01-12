@@ -1,5 +1,5 @@
 # excel-sales-dashboard
-☕ Project Overview
+:coffee: Project Overview
 
 This project analyzes coffee shop sales data to identify trends, best-selling products, and peak business hours.
 The goal is to support data-driven decisions in pricing, staffing, and product offerings.
