@@ -32,6 +32,10 @@ The final result is an interactive Excel dashboard that allows users to:
 - detect peak hours for staffing decisions
 - analyze customer purchasing behavior
 
+The Dashboard
 
-  <img width="855" height="507" alt="coffeshop_dashboard" src="https://github.com/user-attachments/assets/48eef49e-1589-493e-b4f1-d74a1adc0ab8" />
+
+<img width="1425" height="626" alt="coffeshop_dashboard" src="https://github.com/user-attachments/assets/56c5bf5d-c8b8-4c2a-80f1-7f4347163899" />
+
+
 
