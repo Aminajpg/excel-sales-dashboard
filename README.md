@@ -34,8 +34,8 @@ The final result is an interactive Excel dashboard that allows users to:
 
 The Dashboard
 
+![Dashboard](Dashboard_screenshot.png)
 
-<img width="1425" height="626" alt="coffeshop_dashboard" src="https://github.com/user-attachments/assets/56c5bf5d-c8b8-4c2a-80f1-7f4347163899" />
 
 
 
